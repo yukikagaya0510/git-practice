@@ -1,4 +1,2 @@
 hoge
-hoge
-doradora
-hoge
+aiueo
